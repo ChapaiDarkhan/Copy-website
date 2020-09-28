@@ -1,0 +1,37 @@
+.backgroundheader {
+    width:260px;
+    padding: 30px;
+    background-color: #00B7EB;
+}
+
+.backgroundhero {
+    width:260px;
+    padding: 30px;
+    background-color: #FF0000;
+}
+
+.backgroundcontent {
+    width:30%;
+    padding: 30px;
+    background-color: #00FF00;
+}
+
+.backgroundsidebar {
+    width: 30%;
+    padding: 30px;
+    background-color: #800080;
+}
+
+.backgroundfooter {
+    width:260px;
+    padding: 30px;
+    background-color: #444444
+}
+
+.container {
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
